@@ -1,0 +1,6 @@
+# ninja log v5
+4	119	1659441676662506988	CMakeFiles/TinySmartPtr.dir/smartPtr.cpp.o	4de4d71808accd5d
+374	418	1659443279321062656	TinySmartPtr	4aa6799b5dc64cc0
+4	342	1659441676888020638	CMakeFiles/TinySmartPtr.dir/main.cpp.o	9de04ebceac24e1d
+0	374	1659443279273211349	CMakeFiles/TinySmartPtr.dir/test.cpp.o	4bc3d9645882853c
+0	55	1659443992274561986	build.ninja	b0be45f6a1fbe35c

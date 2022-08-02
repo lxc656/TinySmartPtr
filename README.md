@@ -1,0 +1,1 @@
+This is a toy implementation of C++ smart pointer
