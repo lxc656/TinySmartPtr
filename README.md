@@ -1,6 +1,6 @@
 This is a toy implementation of C++ smart pointer
 
-The design details can be seen in doc.md, 
+The design details can be seen in [doc.md](https://github.com/lxc656/TinySmartPtr/blob/master/doc.md), 
 which is written is chinese.
 
 This project is inspired by 
