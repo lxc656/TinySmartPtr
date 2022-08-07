@@ -3,4 +3,4 @@ project(TinySmartPtr)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(TinySmartPtr test.cpp smartPtr.cpp smartPtr.h)
+add_executable(TinySmartPtr test.cpp smartPtr.h utils.h)

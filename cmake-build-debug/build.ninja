@@ -78,12 +78,6 @@ build CMakeFiles/TinySmartPtr.dir/test.cpp.o: CXX_COMPILER__TinySmartPtr_Debug /
   OBJECT_DIR = CMakeFiles/TinySmartPtr.dir
   OBJECT_FILE_DIR = CMakeFiles/TinySmartPtr.dir
 
-build CMakeFiles/TinySmartPtr.dir/smartPtr.cpp.o: CXX_COMPILER__TinySmartPtr_Debug /Users/liuxiaochen/Documents/C++Projects/TinySmartPtr/smartPtr.cpp || cmake_object_order_depends_target_TinySmartPtr
-  DEP_FILE = CMakeFiles/TinySmartPtr.dir/smartPtr.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
-  OBJECT_DIR = CMakeFiles/TinySmartPtr.dir
-  OBJECT_FILE_DIR = CMakeFiles/TinySmartPtr.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target TinySmartPtr
@@ -92,7 +86,7 @@ build CMakeFiles/TinySmartPtr.dir/smartPtr.cpp.o: CXX_COMPILER__TinySmartPtr_Deb
 #############################################
 # Link the executable TinySmartPtr
 
-build TinySmartPtr: CXX_EXECUTABLE_LINKER__TinySmartPtr_Debug CMakeFiles/TinySmartPtr.dir/test.cpp.o CMakeFiles/TinySmartPtr.dir/smartPtr.cpp.o
+build TinySmartPtr: CXX_EXECUTABLE_LINKER__TinySmartPtr_Debug CMakeFiles/TinySmartPtr.dir/test.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/TinySmartPtr.dir
   POST_BUILD = :
